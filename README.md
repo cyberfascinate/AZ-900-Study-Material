@@ -48,11 +48,3 @@ This repository contains study resources for the Microsoft Azure Fundamentals (A
 
 4. **Hindi Resources**
    - [Hindi Playlist on YouTube](https://www.youtube.com/watch?v=l3fGIq8_2zo&list=PLeqch-0_f39FjifU2HxrVs4vaIUwsaSUB&pp=iAQB)
-
-5. **Short Notes**
-   - [Cloud Basics](./Cloud%20Basics.md)
-   - [Azure Basics](./Azure%20Basics.md)
-   - [Azure Services](./Azure%20Services.md)
-   - [Security in Azure](./Security%20in%20Azure.md)
-   - [Governance and Monitoring](./Governance%20and%20Monitoring.md)
-   - [Cost Management](./Cost%20Management.md)
