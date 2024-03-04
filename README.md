@@ -1,65 +1,58 @@
-# AZ-900 Study Resources
+# Microsoft Azure Fundamentals (AZ-900)
 
-This repository contains study resources for the Microsoft Azure Fundamentals (AZ-900) certification exam. Below is a breakdown of the topics covered:
+## Introduction
 
-### Cloud Basics
-- Benefits of Cloud Computing
-- Cloud Deployment Models (Public vs Private vs Hybrid Cloud)
-- Compute & Serverless & Storage
-- IaaS vs PaaS vs SaaS
-- Cloud Compliance
-- Scaling
+This repository contains study resources for the Microsoft Azure Fundamentals (AZ-900) certification exam. The content here includes various study materials and notes to help you prepare for the exam and gain a fundamental understanding of Microsoft Azure services.
 
-### Azure Basics
-- Purchasing & Licensing Options
-- Azure Account, Subscription, Support, and Billing
-- Azure Data Centers
-- Interacting with Azure
-- Service-level Agreements (SLA)
-- Azure Resource Manager (Resources & Resource Groups & Management Groups)
-- Compliance in Azure
+## Course objectives
 
-### Azure Services
-- Virtual Machines
-- Containers
-- App Service
-- Serverless Computing
-- Databases
-- Storage
-- Load Balancing
-- Networking
-- Other services
+1. Understand the basics of cloud computing and its benefits.
+2. Differentiate between public, private, and hybrid cloud deployment models.
+3. Explore compute, serverless, and storage services offered by Azure.
+4. Differentiate between Infrastructure as a Service (IaaS), Platform as a Service (PaaS), and Software as a Service (SaaS).
+5. Understand cloud compliance requirements and considerations.
+6. Learn about scaling in cloud environments.
+7. Familiarize yourself with purchasing, licensing options, and account management in Azure.
+8. Explore Azure data centers and their significance.
+9. Understand how to interact with Azure services and resources effectively.
+10. Learn about service-level agreements (SLAs) and their importance in Azure.
+11. Understand Azure Resource Manager and its role in resource management.
+12. Explore compliance considerations and options in Azure.
+13. Dive into various Azure services such as Virtual Machines, Containers, App Service, Serverless Computing, Databases, Storage, Load Balancing, Networking, and more.
+14. Learn about the shared responsibility model for security in Azure.
+15. Understand defense in depth and other security concepts in Azure.
+16. Explore Azure Security Center and its features.
+17. Learn about identity and access management using Azure Active Directory.
+18. Explore encryption options in Azure, including Azure Key Vault and certificates.
+19. Understand network protection mechanisms in Azure.
+20. Learn about Microsoft Azure Information Protection (AIP) and its role in data security.
+21. Explore Microsoft Defender for Identity and its features.
+22. Understand the Microsoft Security Development Lifecycle (SDL).
+23. Learn about Azure Policy, Azure Blueprints, and their role in governance.
+24. Explore monitoring options in Azure, including Azure Monitor and Azure Service Health.
+25. Understand economies of scale and cost management principles in Azure.
+26. Differentiate between capital expenditure (CapEx) and operational expenditure (OpEx).
+27. Learn about Azure costs, tools for cost management, and cost optimization best practices.
 
-### Security in Azure
-- Shared Responsibility Model
-- Defence in Depth
-- Azure Security Center
-- Identity and Access (Azure AD)
-- Encryption (Azure Key Vault, Certificates)
-- Network Protection
-- Microsoft Azure Information Protection (AIP)
-- Microsoft Defender for Identity
-- Microsoft Security Development Lifecycle (SDL)
+## Files
 
-### Governance and Monitoring
-- Azure Policy & Azure Blueprints
-- Monitoring (Azure Monitor & Azure Service Health)
+1. **Practice Test**
+   - [itexams.com](https://www.itexams.com/info/AZ-900)
 
-### Cost Management
-- Economies of Scale
-- Capital Expenditure (CapEx) vs Operational Expenditure (OpEx)
-- Azure Costs & Tools
-- Cost Optimization Best Practices
+2. **Full Courses and Study Guides**
+   - [marczak.io](https://marczak.io/az-900/)
+   - [YouTube Full Course](https://www.youtube.com/watch?v=NPEsD6n9A_I&list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM&pp=iAQB)
 
-## Practice Test
-- [itexams.com](https://www.itexams.com/info/AZ-900)
+3. **Official Study Guide**
+   - [Microsoft Learn](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-900/)
 
-## Full Courses and Study Guides
-- [marczak.io](https://marczak.io/az-900/)
-- [YouTube Full Course](https://www.youtube.com/watch?v=NPEsD6n9A_I&list=PLGjZwEtPN7j-Q59JYso3L4_yoCjj2syrM&pp=iAQB)
+4. **Hindi Resources**
+   - [Hindi Playlist on YouTube](https://www.youtube.com/watch?v=l3fGIq8_2zo&list=PLeqch-0_f39FjifU2HxrVs4vaIUwsaSUB&pp=iAQB)
 
-## Official Study Guide
-- [Microsoft Learn](https://learn.microsoft.com/en-us/credentials/certifications/exams/az-900/)
-
-## Hindi Resources
-- [Hindi Playlist on YouTube](https://www.youtube.com/watch?v=l3fGIq8_2zo&list=PLeqch-0_f39FjifU2HxrVs4vaIUwsaSUB&pp=iAQB)
+5. **Short Notes**
+   - [Cloud Basics](./Cloud%20Basics.md)
+   - [Azure Basics](./Azure%20Basics.md)
+   - [Azure Services](./Azure%20Services.md)
+   - [Security in Azure](./Security%20in%20Azure.md)
+   - [Governance and Monitoring](./Governance%20and%20Monitoring.md)
+   - [Cost Management](./Cost%20Management.md)
