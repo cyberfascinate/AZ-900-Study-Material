@@ -3,7 +3,7 @@
 This repository contains study resources for the Microsoft Azure Fundamentals (AZ-900) certification exam. Below is a breakdown of the topics covered:
 
 ### Cloud Basics
-- Benefits of Cloud Computing
+- (Benefits of Cloud Computing)
 - Cloud Deployment Models (Public vs Private vs Hybrid Cloud)
 - Compute & Serverless & Storage
 - IaaS vs PaaS vs SaaS
